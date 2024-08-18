@@ -1,4 +1,4 @@
 Ip, S.C.Y., Choo, J., Borja, R.I., 2021. Impacts of saturation-dependent anisotropy on the shrinkage behavior of clay rocks. Acta Geotech. 16, 3381–3400. https://doi.org/10.1007/s11440-021-01268-9
 
 
-The code is used to reproduce Section 3.1 (Boom clay) and Section 3.2 (Opalinus shale) of the above paper. **Plot_saturation_dependence.m** depicts the experimental data and linear regression results on Opalinus shale. **dehydration_shrinkage_AISOelasticity_clay.m** is for Boom clay, and **dehydration_shrinkage_AISOelasticity.m** is for Opalinus shale. Nevertheless, our numerical results do not have an excellent match with those in the reference paper.
+The code is used to reproduce Section 3.1 (Boom clay) and Section 3.2 (Opalinus shale) of the above paper. **Plot_saturation_dependence.m** depicts the experimental data and linear regression results on Opalinus shale. **dehydration_shrinkage_AISOelasticity_clay.m** is for Boom clay, and **dehydration_shrinkage_AISOelasticity.m** is for Opalinus shale. Nevertheless, our numerical results do not have an excellent match with those in the above reference paper.

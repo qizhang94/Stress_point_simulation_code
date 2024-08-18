@@ -1,4 +1,4 @@
-Here, the parameters are adopted based on the experimental tests on Tournemire shale (Niandou et al., 1997; Zhao et al., 2018). $\lambda^e = 4270$ MPa, $\mu_T = 9360$ MPa, $\mu_L = 6510$ MPa, $a^e = -1870$ MPa, $b^e = 5420$ MPa, $M = 1.07$, $\lambda^p = -0.0026$, $c_1^p = 0.7$, $c_2^p = -0.36$ and $c_3^p = 0.6$. The bedding plane angle is $\pi/3$ in the $x {\rm O} y$ plane, which leads to the bedding normal vector (column vector) in 3D as **n** = [-sin($\pi$/3); cos($\pi$/3); 0].
+Here, the parameters are adopted based on the experimental tests on Tournemire shale (Niandou et al., 1997; Zhao et al., 2018). $\lambda^e = 4270$ MPa, $\mu_T = 9360$ MPa, $\mu_L = 6510$ MPa, $a^e = -1870$ MPa, $b^e = 5420$ MPa, $M = 1.07$, $\lambda^p = -0.0026$, $c_1^p = 0.7$, $c_2^p = -0.36$ and $c_3^p = 0.6$. The bedding plane angle is $\pi/3$ in the $x {\rm O} y$ plane, which leads to the bedding normal vector (column vector) in 3D as **_n_** = [-sin($\pi$/3); cos($\pi$/3); 0].
 
 
 

@@ -1,5 +1,5 @@
 ## Some important remarks about the MCC_UMAT.m file
-- This file cannot be perfect, it would lead to non-convergence issue for some (in fact, **a lot of** 😄) corner cases.
+- This file cannot be perfect, it would lead to non-convergence issue for some (in fact, **a lot of** 😄) corner cases
 - Some possible improvements:
     - Try to change `sigma_iter = sigma_old` to `sigma_iter = sigma_trial`
     - Use `while norm(R)/r0 >= error_tol`, i.e., use the residual of totally 11 equations, instead of the first 9 equations

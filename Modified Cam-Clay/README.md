@@ -1,5 +1,5 @@
 ## Some important remarks about the MCC_UMAT.m file
-- This file cannot be perfect, it would lead to non-convergence issue for some (in fact, **a lot of** 😄) corner cases, however, for basic triaxial test, it is enough, and the typical results are given [here](https://mp.weixin.qq.com/s/HGIRHsGQu3TsCcgKJAlIFg)
+- This file cannot be perfect, it would lead to non-convergence issue for some (in fact, **a lot of** 😄) corner cases, however, for basic triaxial test, it is enough, and the typical results are given [here](https://mp.weixin.qq.com/s/HGIRHsGQu3TsCcgKJAlIFg). As a comparison, the triaxial test using Drucker-Prager model could be visualized [here](https://github.com/qizhang94/Stress_point_simulation_code/blob/main/Drucker-Prager/Drucker-Prager_triaxial.png).
 - Some possible improvements:
     - Try to change `sigma_iter = sigma_old` to `sigma_iter = sigma_trial`
     - Use `while norm(R)/r0 >= error_tol`, _i.e._, use the residual of totally 11 equations, instead of the first 9 equations
